@@ -186,7 +186,7 @@ return [
          * Package Service Providers...
          */
 
-        \CardMaker\CardServiceProvider::class,
+        \CardItemMaker\CardServiceProvider::class,
 
         /*
          * Application Service Providers...
