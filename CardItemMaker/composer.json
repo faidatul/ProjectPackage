@@ -1,0 +1,13 @@
+{
+    "name": "fika/cardproject",
+    "description": "a card project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fika",
+            "email": "faidatul2205@gmail.com"
+        }
+    ],
+    "require": {}
+}
