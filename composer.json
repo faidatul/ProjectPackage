@@ -9,5 +9,11 @@
             "email": "faidatul2205@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "CardMaker\\": "CardItemMaker/packages/src/"
+        }
+    }
 }
